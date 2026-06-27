@@ -1,2 +1,8 @@
-# data_analyst_agent
-An intelligent AI assistant that automates data workflows. Performs rapid EDA, translates natural language into code, generates dynamic visualizations, and delivers actionable insights to streamline your daily data analysis tasks.
+# AI Data Analyst Agent
+
+An end-to-end multi-page Streamlit application for automated data profiling, preprocessing, visualization, LLM-powered insights, and conversational Q&A over datasets.
+
+## Setup Instructions
+1. Install dependencies: `pip install -r requirements.txt`
+2. Add your Google Gemini API key to a `.env` file.
+3. Run the application: `streamlit run app.py`

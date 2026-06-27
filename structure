@@ -1,0 +1,35 @@
+AI_Data_Analyst_Agent/
+
+app.py
+
+requirements.txt
+.env
+README.md
+
+utils/
+│
+├── config.py
+├── loader.py
+├── cleaner.py
+├── analyzer.py
+├── visualizer.py
+├── insight_generator.py
+├── ai_chat.py
+└── report_generator.py
+
+pages/
+│
+├── dashboard.py
+├── data_cleaning.py
+├── visualization.py
+├── insights.py
+└── chat.py
+
+data/
+│
+├── raw/
+└── processed/
+
+reports/
+│
+└── text/
